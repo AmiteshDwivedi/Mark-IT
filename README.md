@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ctrl-gaurav/Mark-IT">
-    <img src="images/logo.jpg" alt="Logo" width="430" height="260">
+    <img src="Images/logo.jpg" alt="Logo" width="430" height="260">
   </a>
 
   <h3 align="center">Mark IT</h3>
@@ -96,7 +96,7 @@ pip install -r Bare-Minimum-Requirements.txt
 9. Copy existing images in Image Database Folder ( there are two images in it for testing purpose if you want you can remove that )
 10. Run Attendance.py 
 ```sh
-python script.py
+python Attendance.py
 ```
 
 
