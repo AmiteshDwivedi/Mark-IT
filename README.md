@@ -127,7 +127,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- Gaurav 
-  - Insta Handle - [@ig_itsgk](https://www.instagram.com/ig_itsgk/) 
-  - LinkedIn - [Gaurav](https://www.linkedin.com/in/gaurav-726239157/) <br />
-- Project Link: [https://github.com/ctrl-gaurav/Mark-IT](https://github.com/ctrl-gaurav/Mark-IT)
+- Amitesh Kumar Dwivedi
+  - LinkedIn - [Amitesh](https://www.linkedin.com/in/amiteshdwivedi/) <br />
+
